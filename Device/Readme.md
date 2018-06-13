@@ -1,4 +1,4 @@
-# ShakeShake
+# DevKit Translator
 
 ## Steps to start
 
